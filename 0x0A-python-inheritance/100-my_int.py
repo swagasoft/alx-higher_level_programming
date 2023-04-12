@@ -11,4 +11,4 @@ class MyInt(int):
 
     def __ne__(self, value):
         """Override != operator with ==."""
-        return self.real == value 
+        return self.real == value
