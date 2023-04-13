@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Defines read file module """
 
+
 def read_file(filename=""):
     """
     read_file function
