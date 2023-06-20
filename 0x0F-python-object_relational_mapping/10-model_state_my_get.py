@@ -1,8 +1,6 @@
 #!/usr/bin/python3
 
-""" Write a script that prints the State 
-object with the name passed as argument from the database 
- """
+""" 10-model_state_my_get module """
 
 if __name__ == "__main__":
 
