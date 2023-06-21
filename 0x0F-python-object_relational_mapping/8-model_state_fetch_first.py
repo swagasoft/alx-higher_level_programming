@@ -17,4 +17,4 @@ if __name__ == "__main__":
     if object_data is None:
         print("Nothing")
     else:
-        print(object_data.id , object_data.name, sep=": ")
+        print(object_data.id, object_data.name, sep=": ")
